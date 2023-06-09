@@ -1,8 +1,6 @@
 
 [scripts](https://icimaciej.github.io/scripts/)
 
-![image](https://raw.githubusercontent.com/icimaciej/scripts/main/image.png)
-
 ```
 - 👋 Hi
 ```
