@@ -9,8 +9,8 @@
 
 > Russian Keyboard
 
-[Russian Keyboard](https://raw.githubusercontent.com/icimaciej/online/main/RussianAlphabet.png)
+[Russian Keyboard](https://raw.githubusercontent.com/icimaciej/online/main/RussianKeyboard.png)
 
 > Russian Alphabet
 
-[Russian Alphabet](https://raw.githubusercontent.com/icimaciej/online/main/RussianKeyboard.png)
+[Russian Alphabet](https://raw.githubusercontent.com/icimaciej/online/main/RussianAlphabet.png)
