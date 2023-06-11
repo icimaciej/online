@@ -13,4 +13,4 @@
 
 > Russian Alphabet
 
-[Russian Alphabet](https://raw.githubusercontent.com/icimaciej/online/main/RussianAlphabet.png)
+[Russian Alphabet](https://raw.githubusercontent.com/icimaciej/online/main/RussianAlphabet.jpg)
